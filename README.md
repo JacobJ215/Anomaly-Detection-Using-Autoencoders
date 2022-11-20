@@ -1,4 +1,4 @@
-# Anomaly Detection Using Autoendoder
+# Anomaly Detection Using Autoencoders
 
 ## Credit Card Fraud Dection
 
