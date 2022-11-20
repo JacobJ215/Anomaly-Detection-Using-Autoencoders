@@ -8,8 +8,7 @@
 
 1. **Objective**
    - To assess if a transaction is fraudulent from the given credit card data
-   - Learn from various features of normal transactions to distinguish fraud transactions better
-
+   - Learn from various features of normal transactions to distinguish fraudulent transactions 
 
 2. **Machine Learning Problem**
    - Develop a machine learning model based on deep auto-encoders to learn distribution and relation between the features of normal transactions
