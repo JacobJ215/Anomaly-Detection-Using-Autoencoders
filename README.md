@@ -32,5 +32,30 @@
    - Build a base auto-encoder model using Keras
    - Evaluate and Tune the model 
    - Make Predictions
+
+7. **Deployment**
    - Serve model as API endpoint using Flask
    - Perform real-time predictions
+
+
+`python Engine.py`
+
+  ``` 
+   Train - 0
+   Predict - 1
+   Deploy - 2
+```
+```
+Enter your value: 0
+```
+```
+Data loaded into pandas dataframe
+Preprocessing has begun...
+Data cleaning has completed...
+Data normalization has completed...
+Preprocesing is complete...
+```
+![](images/model_summary.png)
+![](images/training.png)
+
+
